@@ -1,1 +1,1 @@
-# java-the-complete-java-developer-course-coding-solutions
+# complete-java-developer-course-coding-solutions
